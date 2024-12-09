@@ -47,13 +47,10 @@
 
 <div align="center" dir="auto">
     <div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">🔗 Connect with me:</h2><a id="user-content--connect-with-me" class="anchor" aria-label="Permalink: 🔗 Connect with me:" href="#-connect-with-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-    <a href="https://twitter.com/karan_b1603" rel="nofollow">
-        <img src="https://camo.githubusercontent.com/dc6ee08422b5e0f7c25c5cf825ee73c9d8c5bf4a2dc0311f6a0008914a0b6c6a/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f747769747465722d2d76322e706e67" height="40" width="40" data-canonical-src="https://img.icons8.com/color/48/000000/twitter--v2.png" style="max-width: 100%;"> 
-    </a>
-    <a href="https://www.linkedin.com/in/karan-bisht1603/" rel="nofollow">
+    <a href="https://www.linkedin.com/in/raj-kumar-1b4994229/" rel="nofollow">
         <img src="https://camo.githubusercontent.com/2b99b80e945e1197eeb4019137e8c1a1d67a5001bf8d7e540c2fbe0ce4f9dd5e/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6c696e6b6564696e2e706e67" height="40" width="40" data-canonical-src="https://img.icons8.com/color/48/000000/linkedin.png" style="max-width: 100%;"> 
     </a>
-    <a href="mailto:karan161003@gmail.com">
+    <a href="mailto:rk0346101@gmail.com">
         <img src="https://camo.githubusercontent.com/d65bac306d95952aa87d99f5aafa9a51d93e50892adbe5af20f9fa3c54e15084/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f676d61696c2d6e65772e706e67" height="40" width="40" data-canonical-src="https://img.icons8.com/color/48/000000/gmail-new.png" style="max-width: 100%;"> 
     </a>
 </div>
